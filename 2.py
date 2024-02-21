@@ -1,9 +1,9 @@
 import numpy as np
-# 1-D
+#### 1-D
 a = np.array([1,2,3,4])
 print(a) ; print(a.shape) ; print(a.ndim)
 
-# 2-D
+#### 2-D
 a = np.array(
   [
     [1,2,3,4],
@@ -12,7 +12,7 @@ a = np.array(
   )
 print(a) ; print(a.shape) ; print(a.ndim)
 
-# 3-D
+#### 3-D
 a = np.array(
   [
     [
@@ -28,7 +28,7 @@ a = np.array(
 print(a) ; print(a.shape) ; print(a.ndim)
 
 
-# 3-D
+#### 3-D
 a = np.array(
   [
       [
@@ -46,7 +46,7 @@ a = np.array(
 )
 print(a) ; print(a.shape) ; print(a.ndim)
 
-# 3-D
+#### 3-D
 a = np.array(
   [
     [
@@ -66,7 +66,7 @@ a = np.array(
 print(a) ; print(a.shape) ; print(a.ndim)
 
 
-# 3-D
+#### 3-D
 a = np.array(
   [
     [
